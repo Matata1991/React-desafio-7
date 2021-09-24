@@ -1,4 +1,4 @@
-# React-desafio-6
+# React-desafio-7
 
 _Proyecto de un sitio de compras de una confiteria_
 
